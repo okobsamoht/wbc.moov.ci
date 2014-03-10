@@ -1083,7 +1083,8 @@ $( document ).on( "pagebeforecreate", function() {
 <li><a href="faq.html" data-ajax="false">FAQ</a></li>\
 <li><a href="tel:0022501091010">Appeler le Service Client</a></li>\
 <li><a href="tel:0022501091011">Appeler le Serveur Vocal</a></li>\
-<li><a href="chat.html" data-ajax="false"id="hd" data-theme="b" >Help Desk</a></li>\
+<!--<li><a href="chat.html" data-ajax="false"id="hd" data-theme="b" >Help Desk</a></li>-->\
+<li><a href="https://v2.zopim.com/widget/popout.html?key=1wtViB4cZlo4SSAn2bAmC6JzuSKzMZib&mid=Nndb2CqigMoD4N&lang=fr" data-ajax="false"id="hd" data-theme="b" >Help Desk</a></li>\
 	</ul>\
 </li>\
 		     </ul>');
